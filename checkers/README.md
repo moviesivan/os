@@ -1,1 +1,1 @@
-#Console server-client socket checkers
+Console server-client socket checkers
